@@ -41,6 +41,7 @@ div.status { font-size: 10pt; text-align: center; }
 .statusUNKNOWN { text-align: center; background-color: #bf44b2; color: #fff; }
 .statusWARNING { text-align: center; background-color: #ffa500; color: #fff; }
 .statusCRITICAL { text-align: center; background-color: #ff3300; color: #fff; }
+.statusCRITICALACK { text-align: center; background: repeating-linear-gradient( -45deg, #ff3300, #ff3300 10px, #993300 10px, #993300 20px); color: #fff; }
 .statusPENDING a, .statusOK a, .statusRECOVERY a, .statusUNKNOWN a, .statusWARNING a, .statusCRITICAL a { color: #000; }
 .statusPENDING a:hover, .statusOK a:hover, .statusRECOVERY a:hover, .statusUNKNOWN a:hover, .statusWARNING a:hover, .statusCRITICAL a:hover { color: #fff; }
 
@@ -62,7 +63,7 @@ div.status { font-size: 10pt; text-align: center; }
 .statusBGWARNINGACK { background-color: #ffda9f; }
 .statusBGWARNINGSCHED { background-color: #ffda9f; }
 .statusBGCRITICAL { background-color: #ffd4c9; }
-.statusBGCRITICALACK { background-color: #ffd4c9; }
+.statusBGCRITICALACK { background: repeating-linear-gradient( -45deg, #ffd4c9, #ffd4c9 10px, #ffccb3 10px, #ffccb3 20px); }
 .statusBGCRITICALSCHED { background-color: #ffd4c9; }
 .statusBGDOWN { background-color: #ffd4c9; }
 .statusBGDOWNACK { background-color: #ffd4c9; }
