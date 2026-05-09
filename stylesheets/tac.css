@@ -70,8 +70,8 @@ td { font-size: 8pt; }
 .featureItemDisabledActiveServiceChecks { text-align: center; background-color: #ff3300; color: #fff; }
 .featureItemEnabledActiveHostChecks { text-align: center; background-color: #00CC33; color: #fff; }
 .featureItemDisabledActiveHostChecks { text-align: center; background-color: #ff3300; color: #fff; }
-.featureItemDisabledActiveServiceChecks a, .featureItemDisabledActiveHostCheck a { color: #fff; }
-.featureItemDisabledActiveServiceChecks a:hover, .featureItemDisabledActiveHostCheck a:hover { color: #000; }
+.featureItemDisabledActiveServiceChecks a, .featureItemDisabledActiveHostChecks a { color: #fff; }
+.featureItemDisabledActiveServiceChecks a:hover, .featureItemDisabledActiveHostChecks a:hover { color: #000; }
 
 .featureEnabledPassiveChecks { text-align: center; background-color: #00cc33; color: #fff; }
 .featureDisabledPassiveChecks { text-align: center; background-color: #ff3300; color: #fff; }
